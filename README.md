@@ -2,6 +2,12 @@
 
 by Greg Pelletier (gjpelletier@gmail.com)
 
+Check also: https://stats.stackexchange.com/questions/15423/how-to-compute-prediction-bands-for-non-linear-regression
+
+https://stats.stackexchange.com/questions/82603/understanding-the-confidence-band-from-a-polynomial-regression
+
+https://stats.stackexchange.com/questions/85448/shape-of-confidence-and-prediction-intervals-for-nonlinear-regression
+
 We introduce the following two new new functions to estimate confidence intervals and prediction intervals for nonlinear regression:
 
 - **delta_method**
